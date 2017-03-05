@@ -50,3 +50,57 @@ def ocpd_questionare():
         return True
     else:
         return False
+
+
+def narcissism_questionare():
+    positive_response = 0
+    print("Do you have a grandiose sense of self-importance? Y/N")
+    Popen("say Do you have a grandiose sense of self-importance?",
+          shell=True).communicate()
+    response = raw_input()
+    if response == "Y":
+        positive_response += 1
+    print("Are you preoccupied with fantasies of unlimited success, power, brilliance, beauty, or ideal love? Y/N")
+    Popen("say Are you preoccupied with fantasies of unlimited success, power, brilliance, beauty, or ideal love?", shell=True).communicate()
+    response = raw_input()
+    if response == "Y":
+        positive_response += 1
+    print("Are you often envious of others or believes that others are envious of you? Y/N")
+    Popen("say Are you often envious of others or believes that others are envious of you?", shell=True).communicate()
+    response = raw_input()
+    if response == "Y":
+        positive_response += 1
+    print("Do you believe that you are special and unique and can only be understood by, or should associate with, other special or high-status people? Y/N")
+    Popen("say Do you believe that you are special and unique and can only be understood by, or should associate with, other special or high-status people?", shell=True).communicate()
+    response = raw_input()
+    if response == "Y":
+        positive_response += 1
+    print("Do you require excessive admiration? Y/N")
+    Popen("say Do you require excessive admiration?", shell=True).communicate()
+    response = raw_input()
+    if response == "Y":
+        positive_response += 1
+    print("Do you have a sense of entitlement? Y/N")
+    Popen("say Do you have a sense of entitlement?", shell=True).communicate()
+    response = raw_input()
+    if response == "Y":
+        positive_response += 1
+    print("Are you interpersonally exploitative? Y/N")
+    Popen("say Are you interpersonally exploitative??", shell=True).communicate()
+    response = raw_input()
+    if response == "Y":
+        positive_response += 1
+    print("Do you lack empathy are you unwilling to recognize or identify with the feelings and needs of others? Y/N")
+    Popen("say Do you lack empathy are you unwilling to recognize or identify with the feelings and needs of others?", shell=True).communicate()
+    response = raw_input()
+    if response == "Y":
+        positive_response += 1
+    print("Do you show arrogant, haughty behaviors or attitudes? Y/N")
+    Popen("say Do you show arrogant, haughty behaviors or attitudes?", shell=True).communicate()
+    response = raw_input()
+    if response == "Y":
+        positive_response += 1
+    if positive_response >= 5:
+        return True
+    else:
+        return False
