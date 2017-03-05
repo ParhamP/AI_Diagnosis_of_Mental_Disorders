@@ -1,0 +1,100 @@
+A. A predominant complaint of dissatisfaction witli sleep quantity or quality, associated
+with one (or more) of the following symptoms:
+1. Difficulty initiating sleep. (In children, this may manifest as difficulty initiating sleep
+without caregiver intervention.)
+2. Difficulty maintaining sleep, characterized by frequent awakenings or problems returning
+to sleep after awakenings. (In children, this may manifest as difficulty returning
+to sleep without caregiver intervention.)
+3. Early-morning awakening with inability to return to sleep.
+B. The sleep disturbance causes clinically significant distress or impairment in social, occupational,
+educational, academic, behavioral, or other important areas of functioning.
+C. The sleep difficulty occurs at least 3 nights per week.
+D. The sleep difficulty is present for at least 3 months.
+E. The sleep difficulty occurs despite adequate opportunity for sleep.
+F. The insomnia is not better explained by and does not occur exclusively during the
+course of another sleep-wake disorder (e.g., narcolepsy, a breathing-related sleep disorder,
+a circadian rhythm sleep-wake disorder, a parasomnia).
+G. The insomnia is not attributable to the physiological effects of a substance (e.g., a drug
+of abuse, a medication).
+H. Coexisting mental disorders and medical conditions do not adequately explain the predominant
+complaint of insomnia.
+Specify if:
+With non-sleep disorder mental comorbidity, including substance use disorders
+With other medical comorbidity
+With other sleep disorder
+Coding note: The code 780.52 (G47.00) applies to all three specifiers. Code also the
+relevant associated mental disorder, medical condition, or other sleep disorder immediately
+after the code for insomnia disorder in order to indicate the association.
+Specify if:
+Episodic: Sy(nptoms last at least 1 month but less than 3 months.
+Persistent: Symptoms last 3 months or longer.
+Recurrent: Two (or more) episodes within the space of 1 year.
+Note: Acute and short-term insomnia (i.e., symptoms lasting less than 3 months but othenA/
+ise meeting all criteria with regard to frequency, intensity, distress, and/or impairment)
+should be coded as an other specified insomnia disorder.
+Note. The diagnosis of insomnia disorder is given whether it occurs as an independent
+condition or is comorbid with another mental disorder (e.g., major depressive disorder),
+medical condition (e.g., pain), or another sleep disorder (e.g., a breathing-related sleep disorder).
+For instance, insomnia may develop its own course with some anxiety and depressive
+features but in the absence of criteria being met for any one mental disorder. Insomnia
+may also manifest as a clinical feature of a more predominant mental disorder. Persistent
+insomnia may even be a risk factor for depression and is a common residual symptom after
+treatment for this condition. With comorbid insomnia and a mental disorder, treatment
+may also need to target both conditions. Given these different courses, it is often impossible
+to establish the precise nature of the relationship between these clinical entities, and
+this relationship may change over time. Therefore, in the presence of insomnia and a comorbid
+disorder, it is not necessary to make a causal attribution between the two conditions.
+Rather, the diagnosis of insomnia disorder is made with concurrent specification of
+the clinically comorbid conditions. A concurrent insomnia diagnosis should only be considered
+when the insomnia is sufficiently severe to warrant independent clinical attention;
+otherwise, no separate diagnosis is necessary.
+Diagnostic Features
+The essential feature of insomnia disorder is dissatisfaction with sleep quantity or quality
+with complaints of difficulty initiating or maintaining sleep. The sleep complaints are accompanied
+by clinically significant distress or impairment in social, occupational, or other
+important areas of functioning. The sleep disturbance may occur during the course of another
+mental disorder or medical condition, or it may occur independently.
+Different manifestations of insomnia can occur at different times of the sleep period. Sleeponset
+insomnia (or initial insomnia) involves difficulty initiating sleep at bedtime. Sleep maintenance
+insomnia (or middle insomnia) involves frequent or prolonged awakenings throughout
+the night. Late insomnia involves early-morning awakening with an inability to return to sleep.
+Difficulty maintaining sleep is the most common single symptom of insomnia, followed by
+difficulty falling asleep, while a combination of these symptoms is the most common presentation
+overall. The specific type of sleep complaint often varies over time. Individuals who
+complain of difficulty falling asleep at one time may later complain of difficulty maintaining
+sleep, and vice versa. Symptoms of difficulty falling asleep and difficulty maintaining sleep
+can be quantified by the individual's retrospective self-report, sleep diaries, or other methods,
+such as actigraphy or polysomnography, but the diagnosis of insomnia disorder is based on
+the individual's subjective perception of sleep or a caretaker's report.
+Nonrestorative sleep, a complaint of poor sleep quality that does not leave the individual
+rested upon awakening despite adequate duration, is a common sleep complaint usually
+occurring in association with difficulty initiating or maintaining sleep, or less frequently in
+isolation. This complaint can also be reported in association with other sleep disorders
+(e.g., breathing-related sleep disorder). When a complaint of nonrestorative sleep occurs
+in isolation (i.e., in the absence of difficulty initiating and/or maintaining sleep) but all diagnostic
+criteria with regard to frequency, duration, and daytime distress and impairments
+are otherwise met, a diagnosis of other specified insomnia disorder or unspecified insomnia
+disorder is made.
+Aside from the frequency and duration criteria required to make the diagnosis, additional
+criteria are useful to quantify insomnia severity. These quantitative criteria, while
+arbitrary, are provided for illustrative purpose only. For instance, difficulty initiating sleep
+is defined by a subjective sleep latency greater than 20-30 minutes, and difficulty maintaining
+sleep is defined by a subjective time awake after sleep onset greater than 20-30 minutes.
+Although there is no standard definition of early-morning awakening, this symptom
+involves awakening at least 30 minutes before the scheduled time and before total sleep
+time reaches hours. It is essential to take into account not only the final awakening time
+but also the bedtime on the previous evening. Awakening at 4:00 A.M. does not have the
+same clinical significance in those who go to bed at 9:00 P.M. as in those who go to bed at
+11:00 P.M. Such a symptom may also reflect an age-dependent decrease in the ability to sustain
+sleep or an age-dependent shift in the timing of the main sleep period.
+Insomnia disorder involves daytime impairments as well as nighttime sleep difficulties.
+These include fatigue or, less commonly, daytime sleepiness; the latter is more common
+among older individuals and when insomnia is comorbid with another medical condition
+(e.g., chronic pain) or sleep disorder (e.g., sleep apnea). Impairment in cognitive performance
+may include difficulties with attention, concentration and memory, and even with performing
+simple manual skills. Associated mood disturbances are typically described as irritability or
+mood lability and less commonly as depressive or anxiety symptoms. Not all individuals with
+nighttime sleep disturbances are distressed or have functional impairment. For example, sleep
+continuity is often interrupted in healthy older adults who nevertheless identify themselves
+as good sleepers. A diagnosis of insomnia disorder should be reserved for those individuals
+with significant daytime distress or impairment related to their nighttime sleep difficulties.

@@ -1,0 +1,125 @@
+A. A persistent pattern of inattention and/or hyperactivity-impulsivity that interferes with
+functioning or development, as characterized by (1) and/or (2):
+1. Inattention: Six (or more) of the following symptoms have persisted for at least
+6 months to a degree that is inconsistent with developmental level and that negatively
+impacts directly on social and academic/occupational activities:
+Note: The symptoms are not solely a manifestation of oppositional behavior, defiance,
+hostility, or failure to understand tasks or instructions. For older adolescents
+and adults (age 17 and older), at least five symptoms are required.
+a. Often fails to give close attention to details or makes careless mistakes in
+schoolwork, at work, or during other activities (e.g., overlooks or misses details,
+work is inaccurate).
+b. Often has difficulty sustaining attention in tasks or play activities (e.g., has difficulty
+remaining focused during lectures, conversations, or lengthy reading).
+c. Often does not seem to listen when spoken to directly (e.g., mind seems elsewhere,
+even in the absence of any obvious distraction).
+d. Often does not follow through on instructions and fails to finish schoolwork,
+chores, or duties in the workplace (e.g., starts tasks but quickly loses focus and
+is easily sidetracked).
+e. Often has difficulty organizing tasks and activities (e.g., difficulty managing sequential
+tasks; difficulty keeping materials and belongings in order; messy, disorganized
+work; has poor time management; fails to meet deadlines).
+f. Often avoids, dislikes, or is reluctant to engage in tasks that require sustained
+mental effort (e.g., schoolwork or homework; for older adolescents and adults,
+preparing reports, completing forms, reviewing lengthy papers).
+g. Often loses things necessary for tasks or activities (e.g., school materials, pencils,
+books, tools, wallets, keys, papenwork, eyeglasses, mobile telephones).
+h. Is often easily distracted by extraneous stimuli (for older adolescents and
+adults, may include unrelated thoughts).
+i. Is often forgetful in daily activities (e.g., doing chores, running errands; for older
+adolescents and adults, returning calls, paying bills, keeping appointments).
+2. Hyperactivity and impuisivity: Six (or more) of the following symptoms have persisted
+for at least 6 months to a degree that is inconsistent with developmental level
+and that negatively impacts directly on social and academic/occupational activities:
+Note: The symptoms are not solely a manifestation of oppositional behavior, defiance,
+hostility, or a failure to understand tasks or instructions. For older adolescents
+and adults (age 17 and older), at least five symptoms are required.
+a. Often fidgets with or taps hands or feet or squirms in seat.
+b. Often leaves seat in situations when remaining seated is expected (e.g., leaves
+his or her place in the classroom, in the office or other workplace, or in other
+situations that require remaining in place).
+c. Often runs about or climbs in situations where it is inappropriate. (Note: In adolescents
+or adults, may be limited to feeling restless.)
+d. Often unable to play or engage in leisure activities quietly.
+e. Is often “on the go,” acting as if “driven by a motor” (e.g., is unable to be or uncomfortable
+being still for extended time, as in restaurants, meetings; may be
+experienced by others as being restless or difficult to keep up with).
+f. Often talks excessively.
+g. Often blurts out an answer before a question has been completed (e.g., completes
+people’s sentences; cannot wait for turn in conversation).
+h. Often has difficulty waiting his or her turn (e.g., while waiting in line).
+i. Often interrupts or intrudes on others (e.g., butts into conversations, games, or
+activities; may start using other people’s things without asking or receiving permission;
+for adolescents and adults, may intrude into or take over what others
+are doing).
+B. Several inattentive or hyperactive-impulsive symptoms were present prior to age
+12 years.
+C. Several inattentive or hyperactive-impulsive symptoms are present in two or more settings
+(e.g., at home, school, or work; with friends or relatives; in other activities).
+D. There is clear evidence that the symptoms interfere with, or reduce the quality of, social,
+academic, or occupational functioning.
+E. The symptoms do not occur exclusively during the course of schizophrenia or another
+psychotic disorder and are not better explained by another mental disorder (e.g., mood
+disorder, anxiety disorder, dissociative disorder, personality disorder, substance intoxication
+or withdrawal).
+Specify whether:
+314.01 (F90.2) Combined presentation: If both Criterion A1 (inattention) and Criterion
+A2 (hyperactivity-impulsivity) are met for the past 6 months.
+314.00 (F90.0) Predominantly inattentive presentation: If Criterion A1 (inattention)
+is met but Criterion A2 (hyperactivity-impulsivity) is not met for the past 6 months.
+314.01 (F90.1) Predominantly hyperactive/impulsive presentation: If Criterion A2 (hyperactivity-
+impulsivity) is met and Criterion A1 (inattention) is not met for the past 6 months.
+Specify if:
+in partial remission: When full criteria were previously met, fewer than the full criteria
+have been met for the past 6 months, and the symptoms still result in impairment in
+social, academic, or occupational functioning.
+Specify current severity:
+lUlild: Few, if any, symptoms in excess of those required to make the diagnosis are
+present, and symptoms result in no more than minor impairments in social or occupational
+functioning.
+Moderate: Symptoms or functional impairment between “mild” and “severe” are present.
+Severe: Many symptoms in excess of tliose required to mal<e tlie diagnosis, or several
+symptoms that are particularly severe, are present, or the symptoms result in marked
+impairment in social or occupational functioning.
+Diagnostic Features
+The essential feature of attention-deficit/hyperactivity disorder (ADHD) is a persistent
+pattern of inattention and/or hyperactivity-impulsivity that interferes with functioning or
+development. Inattention manifests behaviorally in ADHD as wandering off task, lacking
+persistence, having difficulty sustaining focus, and being disorganized and is not due to
+defiance or lack of comprehension. Hyperactivity refers to excessive motor activity (such as
+a child running about) when it is not appropriate, or excessive fidgeting, tapping, or talkativeness.
+In adults, hyperactivity may manifest as extreme restlessness or wearing others
+out with their activity. Impulsivity refers to hasty actions that occur in the moment without
+forethought and that have high potential for harm to the individual (e.g., darting into the
+street without looking). Impulsivity may reflect a desire for immediate rewards or an inability
+to delay gratification. Impulsive behaviors may manifest as social intrusiveness
+(e.g., interrupting others excessively) and/or as making important decisions without consideration
+of long-term consequences (e.g., taking a job without adequate information).
+ADHD begins in childhood. The requirement that several symptoms be present before
+age 12 years conveys the importance of a substantial clinical presentation during childhood.
+At the same time, an earlier age at onset is not specified because of difficulties in establishing
+precise childhood onset retrospectively. Adult recall of childhood symptoms
+tends to be unreliable, and it is beneficial to obtain ancillary information.
+Manifestations of the disorder must be present in more than one setting (e.g., home and
+school, work). Confirmation of substantial symptoms across settings typically cannot be
+done accurately without consulting informants who have seen the individual in those settings.
+Typically, symptoms vary depending on context within a given setting. Signs of the
+disorder may be minimal or absent when the individual is receiving frequent rewards for
+appropriate behavior, is under close supervision, is in a novel setting, is engaged in especially
+interesting activities, has consistent external stimulation (e.g., via electronic screens),
+or is interacting in one-on-one situations (e.g., the clinician's office).
+Associated Features Supporting Diagnosis
+Mild delays in language, motor, or social development are not specific to ADHD but often cooccur.
+Associated features may include low frustration tolerance, irritability, or mood lability.
+Even in the absence of a specific learning disorder, academic or work performance is often impaired.
+Inattentive behavior is associated with various underlying cognitive processes, and individuals
+with ADHD may exhibit cognitive problems on tests of attention, executive
+function, or memory, although these tests are not sufficiently sensitive or specific to serve as diagnostic
+indices. By early adulthood, ADHD is associated with an increased risk of suicide attempt,
+primarily when comorbid with mood, conduct, or substance use disorders.
+No biological marker is diagnostic for ADHD. As a group, compared with peers, children
+with ADHD display increased slow wave electroencephalograms, reduced total
+brain volume on magnetic resonance imaging, and possibly a delay in posterior to anterior
+cortical maturation, but these findings are not diagnostic. In the uncommon cases where
+there is a known genetic cause (e.g.. Fragile X syndrome, 22qll deletion syndrome), the
+ADHD presentation should still be diagnosed

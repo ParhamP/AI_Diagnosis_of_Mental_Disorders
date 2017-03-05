@@ -1,0 +1,89 @@
+A. Presence of obsessions, compulsions, or both:
+Obsessions are defined by (1) and (2):
+1. Recurrent and persistent thoughts, urges, or images that are experienced, at some
+time during the disturbance, as intrusive and unwanted, and that in most individuals
+cause marked anxiety or distress.
+2. The individual attempts to ignore or suppress such thoughts, urges, or images, or to
+neutralize them with some other thought or action (i.e., by performing a compulsion).
+Compulsions are defined by (1) and (2):
+1. Repetitive behaviors (e.g., hand washing, ordering, checking) or mental acts (e.g.,
+praying, counting, repeating words silently) that the individual feels driven to perform
+in response to an obsession or according to rules that must be applied rigidly.
+2. The behaviors or mental acts are aimed at preventing or reducing anxiety or distress,
+or preventing some dreaded event or situation; however, these behaviors or
+mental acts are not connected in a realistic way with what they are designed to neutralize
+or prevent, or are clearly excessive.
+Note: Young children may not be able to articulate the aims of these behaviors or
+mental acts.
+B. The obsessions or compulsions are time-consuming (e.g., take more than 1 hour per
+day) or cause clinically significant distress or impairment in social, occupational, or
+other important areas of functioning.
+C. The obsessive-compulsive symptoms are not attributable to the physiological effects
+of a substance (e.g., a drug of abuse, a medication) or another medical condition.
+D. The disturbance is not better explained by the symptoms of another mental disorder
+(e.g., excessive worries, as in generalized anxiety disorder; preoccupation with appearance,
+as in body dysmorphic disorder; difficulty discarding or parting with possessions,
+as in hoarding disorder; hair pulling, as in trichotillomania [hair-pulling disorder];
+skin picking, as in excoriation [skin-picking] disorder; stereotypies, as in stereotypic
+movement disorder; ritualized eating behavior, as in eating disorders; preoccupation
+with substances or gambling, as in substance-related and addictive disorders; preoccupation
+with having an illness, as in illness anxiety disorder; sexual urges or fantasies,
+as in paraphilic disorders; impulses, as in disruptive, impulse-control, and conduct disorders;
+guilty ruminations, as in major depressive disorder; thought insertion or delusional
+preoccupations, as in schizophrenia spectrum and other psychotic disorders; or
+repetitive patterns of behavior, as in autism spectrum disorder).
+Specify if:
+With good or fair insiglit: The individual recognizes that obsessive-compulsive disorder
+beliefs are definitely or probably not true or that they may or may not be true.
+With poor insight: The individual thinks obsessive-compulsive disorder beliefs are
+probably true.
+With absent insight/deiusionai beiiefs: The individual is completely convinced that
+obsessive-compulsive disorder beliefs are true.
+Specify if:
+Tic-reiated: The individual has a current or past history of a tic disorder.
+Specifiers
+Many individuals with obsessive-compulsive disorder (OCD) have dysfunctional beliefs.
+These beliefs can include an inflated sense of responsibility and the tendency to overestimate
+threat; perfectionism and intolerance of uncertainty; and over-importance of thoughts
+(e.g., believing that having a forbidden thought is as bad as acting on it) and the need to
+control thoughts.
+Individuals with OCD vary in the degree of insight they have about the accuracy of the
+beliefs that underlie their obsessive-compulsive symptoms. Many individuals have good or
+fair insight (e.g., the individual believes that the house definitely will not, probably will not,
+or may or may not bum down if the stove is not checked 30 times). Some have poor insight
+(e.g., the individual believes that the house will probably burn down if the stove is not
+checked 30 times), and a few (4% or less) have absent insight/delusional beliefs (e.g., the individual
+is convinced that the house will bum down if the stove is not checked 30 times).
+Insight can vary within an individual over the course of the illness. Poorer insight has been
+linked to worse long-term outcome.
+Up to 30% of individuals with OCD have a lifetime tic disorder. This is most common
+in males with onset of OCD in childhood. These individuals tend to differ from those without
+a history of tic disorders in the themes of their OCD symptoms, comorbidity, course,
+and pattem of familial transmission.
+Diagnostic Features
+The characteristic symptoms of OCD are the presence of obsessions and compulsions (Criterion
+A). Obsessions are repetitive and persistent thoughts (e.g., of contamination), images
+(e.g., of violent or horrific scenes), or urges (e.g., to stab someone). Importantly, obsessions
+are not pleasurable or experienced as voluntary: they are intrusive and unwanted and
+cause marked distress or anxiety in most individuals. The individual attempts to ignore or
+suppress these obsessions (e.g., avoiding triggers or using thought suppression) or to neutralize
+them with another thought or action (e.g., performing a compulsion). Compulsions
+(or rituals) are repetitive behaviors (e.g., washing, checking) or mental acts (e.g., counting,
+repeating words silently) that the individual feels driven to perform in response to an
+obsession or according to rules that must be applied rigidly. Most individuals with OCD
+have both obsessions and compulsions. Compulsions are typically performed in response
+to an obsession (e.g., thoughts of contamination leading to washing rituals or that something
+is incorrect leading to repeating rituals until it feels "just right")· The aim is to reduce
+the distress triggered by obsessions or to prevent a feared event (e.g., becoming ill). However,
+these compulsions either are not connected in a realistic way to the feared event (e.g.,
+arranging items symmetrically to prevent harm to a loved one) or are clearly excessive
+(e.g., showering for hours each day). Compulsions are not done for pleasure, although some
+individuals experience relief from anxiety or distress.
+Criterion B emphasizes that obsessions and compulsions must be time-consuming (e.g.,
+more than 1 hour per day) or cause clinically significant distress or impairment to warrant
+a diagnosis of OCD. This criterion helps to distinguish the disorder from the occasional intmsive
+thoughts or repetitive behaviors that are common in the general population (e.g.,
+double-checking that a door is locked). The frequency and severity of obsessions and compulsions
+vary across individuals with OCD (e.g., some have mild to moderate symptoms,
+spending 1-3 hours per day obsessing or doing compulsions, whereas others have nearly
+constant intmsive thoughts or compulsions that can be incapacitating).

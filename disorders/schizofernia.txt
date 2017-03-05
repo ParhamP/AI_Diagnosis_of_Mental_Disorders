@@ -1,0 +1,147 @@
+A. Two (or more) of the following, each present for a significant portion of time during a
+1 -month period (or less if successfully treated). At least one of these must be (1 ), (2), or (3):
+1. Delusions.
+2. Hallucinations.
+3. Disorganized speech (e.g., frequent derailment or incoherence).
+4. Grossly disorganized or catatonic behavior.
+5. Negative symptoms (i.e., diminished emotional expression or avolition).
+B. For a significant portion of the time since the onset of the disturbance, level of functioning
+in one or more major areas, such as work, interpersonal relations, or self-care, is
+markedly below the level achieved prior to the onset (or when the onset is in childhood
+or adolescence, there is failure to achieve expected level of interpersonal, academic,
+or occupational functioning).
+C. Continuous signs of the disturbance persist for at least 6 months. This 6-month period
+must include at least 1 month of symptoms (or less if successfully treated) that meet Criterion
+A (i.e., active-phase symptoms) and may include periods of prodromal or residual
+symptoms. During these prodromal or residual periods, the signs of the disturbance may
+be manifested by only negative symptoms or by two or more symptoms listed in Criterion
+A present in an attenuated form (e.g., odd beliefs, unusual perceptual experiences).
+D. Schizoaffective disorder and depressive or bipolar disorder with psychotic features
+have been ruled out because either 1 ) no major depressive or manic episodes have
+occurred concurrently with the active-phase symptoms, or 2) if mood episodes have
+occurred during active-phase symptoms, they have been present for a minority of the
+total duration of the active and residual periods of the illness.
+E. The disturbance is not attributable to the physiological effects of a substance (e.g., a
+drug of abuse, a medication) or another medical condition.
+F. If there is a history of autism spectrum disorder or a communication disorder of childhood
+onset, the additional diagnosis of schizophrenia is made only if prominent delusions
+or hallucinations, in addition to the other required symptoms of schizophrenia,
+are also present for at least 1 month (or less if successfully treated).
+Specify if:
+The following course specifiers are only to be used after a 1-year duration of the disorder
+and if they are not in contradiction to the diagnostic course criteria.
+First episode, currently in acute episode: First manifestation of the disorder meeting
+the defining diagnostic symptom and time criteria. An acute episode is a time period
+in which the symptom criteria are fulfilled.
+First episode, currently in partial remission: Partial remission is a period of time
+during which an improvement after a previous episode is maintained and in which the
+defining criteria of the disorder are only partially fulfilled.
+First episode, currently in full remission: Full remission is a period of time after a
+previous episode during which no disorder-specific symptoms are present.
+Multiple episodes, currently in acute episode: Multiple episodes may be determined
+after a minimum of two episodes (i.e., after a first episode, a remission and a
+minimum of one relapse).
+■Multiple episodes, currently in partial remission
+Multiple episodes, currently in full remission
+Continuous: Symptoms fulfilling the diagnostic symptom criteria of the disorder are
+remaining for the majority of the illness course, with subthreshold symptom periods being
+very brief relative to the overall course.
+Unspecified
+Specify if:
+With catatonia (refer to the criteria for catatonia associated with another mental disorder,
+pp. 119-120, for definition).
+Coding note: Use additional code 293.89 (F06.1) catatonia associated with
+schizophrenia to indicate the presence of the comorbid catatonia.
+Specify current severity:
+Severity is rated by a quantitative assessment of the primary symptoms of psychosis,
+including delusions, hallucinations, disorganized speech, abnormal psychomotor behavior,
+and negative symptoms. Each of these symptoms may be rated for its current
+severity (most severe in the last 7 days) on a 5-point scale ranging from 0 (not present)
+to 4 (present and severe). (See Clinician-Rated Dimensions of Psychosis Symptom
+Severity in the chapter “Assessment Measures.”)
+Note: Diagnosis of schizophrenia can be made without using this severity specifier.
+Diagnostic Features
+The characteristic symptoms of schizophrenia involve a range of cognitive, behavioral, and
+emotional dysfunctions, but no single symptom is pathognomonic of the disorder. The diagnosis
+involves the recognition of a constellation of signs and symptoms associated with
+impaired occupational or social functioning. Individuals with the disorder will vary substantially
+on most features, as schizophrenia is a heterogeneous clinical syndrome.
+At least two Criterion A symptoms must be present for a significant portion of time
+during a 1-month period or longer. At least one of these symptoms must be the clear presence
+of delusions (Criterion Al), hallucinations (Criterion A2), or disorganized speech
+(Criterion A3). Grossly disorganized or catatonic behavior (Criterion A4) and negative
+symptoms (Criterion A5) may also be present. In those situations in which the activephase
+symptoms remit within a month in response to treatment. Criterion A is still met if the
+clinician estimates that they would have persisted in the absence of treatment.
+Schizophrenia involves impairment in one or more major areas of functioning (Criterion
+B). If the disturbance begins in childhood or adolescence, the expected level of function
+is not attained. Comparing the individual with unaffected siblings may be helpful. The
+dysfunction persists for a substantial period during the course of the disorder and does not
+appear to be a direct result of any single feature. Avolition (i.e., reduced drive to pursue
+goal-directed behavior; Criterion A5) is linked to the social dysfunction described under
+Criterion B. There is also strong evidence for a relationship between cognitive impairment
+(see the section "Associated Features Supporting Diagnosis" for this disorder) and functional
+impairment in individuals with schizophrenia.
+Some signs of the disturbance must persist for a continuous period of at least 6 months
+(Criterion C). Pi;odromal symptoms often precede the active phase, and residual symptoms
+may follow it, characterized by mild or subthreshold forms of hallucinations or
+delusions. Individuals may express a variety of unusual or odd beliefs that are not of delusional
+proportions (e.g., ideas of reference or magical thinking); they may have unusual
+perceptual experiences (e.g., sensing the presence of an unseen person); their speech may
+be generally understandable but vague; and their behavior may be unusual but not grossly
+disorganized (e.g., mumbling in public). Negative symptoms are common in the prodromal
+and residual phases and can be severe. Individuals who had been socially active
+may become withdrawn from previous routines. Such behaviors are often the first sign of
+a disorder.
+Mood symptoms and full mood episodes are common in schizophrenia and may be concurrent
+with active-phase symptomatology. However, as distinct from a psychotic mood disorder,
+a schizophrenia diagnosis requires the presence of delusions or hallucinations in the
+absence of mood episodes. In addition, mood episodes, taken in total, should be present for
+only a minority of the total duration of the active and residual periods of the illness.
+In addition to the five symptom domain areas identified in the diagnostic criteria, the
+assessment of cognition, depression, and mania symptom domains is vital for making critically
+important distinctions between the various schizophrenia spectrum and other psychotic
+disorders.
+Associated Features Supporting Diagnosis
+Individuals with schizophrenia may display inappropriate affect (e.g., laughing in the absence
+of an appropriate stimulus); a dysphoric mood that can take the form of depression,
+anxiety, or anger; a disturbed sleep pattern (e.g., daytime sleeping and nighttime activity);
+and a lack of interest in eating or food refusal. Depersonalization, derealization, and somatic
+concerns may occur and sometimes reach delusional proportions. Anxiety and phobias
+are common. Cognitive deficits in schizophrenia are conrmion and are strongly linked
+to vocational and functional impairments. These deficits can include decrements in declarative
+memory, working memory, language function, and other executive functions, as well
+as slower processing speed. Abnormalities in sensory processing and inhibitory capacity,
+as well as reductions in attention, are also found. Some individuals with schizophrenia
+show social cognition deficits, including deficits in the ability to infer the intentions of
+other people (theory of mind), and may attend to and then inteφret irrelevant events or
+stimuli as meaningful, perhaps leading to the generation of explanatory delusions. These
+impairments frequently persist during symptomatic remission.
+Some individuals with psychosis may lack insight or awareness of their disorder (i.e.,
+anosognosia). This lack of "'insight" includes unawareness of symptoms of schizophrenia
+and may be present throughout the entire course of the illness. Unawareness of illness is
+typically a symptom of schizophrenia itself rather than a coping strategy. It is comparable
+to the lack of awareness of neurological deficits following brain damage, termed anosognosia.
+This symptom is the most common predictor of non-adherence to treatment, and it
+predicts higher relapse rates, increased number of involuntary treatments, poorer psychosocial
+functioning, aggression, and a poorer course of illness.
+Hostility and aggression can be associated with schizophrenia, although spontaneous
+or random assault is uncommon. Aggression is more frequent for younger males and for
+individuals with a past history of violence, non-adherence with treatment, substance
+abuse, and impulsivity. It should be noted that the vast majority of persons with schizophrenia
+are not aggressive and are more frequently victimized than are individuals in the
+general population.
+Currently, there are no radiological, laboratory, or psychometric tests for the disorder.
+Differences are evident in multiple brain regions between groups of healthy individuals
+and persons with schizophrenia, including evidence from neuroimaging, neuropathological,
+and neurophysiological studies. Differences are also evident in cellular architecture,
+white matter connectivity, and gray matter volume in a variety of regions such as the prefrontal
+and temporal cortices. Reduced overall brain volume has been observed, as well as
+increased brain volume reduction with age. Brain volume reductions with age are more
+pronounced in individuals with schizophrenia than in healthy individuals. Finally, individuals
+with schizophrenia appear to differ from individuals without the disorder in eyetracking
+and electrophysiological indices.
+Neurological soft signs common in individuals with schizophrenia include impairments
+in motor coordination, sensory integration, and motor sequencing of complex movements;
+left-right confusion; and disinhibition of associated movements. In addition, minor physical
+anomalies of the face and limbs may occur.

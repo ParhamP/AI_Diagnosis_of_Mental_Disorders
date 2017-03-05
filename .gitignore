@@ -1,3 +1,5 @@
+.DS_Store
+current_symptomes.txt
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
