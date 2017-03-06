@@ -1,6 +1,5 @@
 import httplib
 import urllib
-import base64
 import io
 
 

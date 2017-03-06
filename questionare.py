@@ -3,7 +3,7 @@ from subprocess import Popen
 
 def ocpd_questionare():
     positive_response = 0
-    print("Are you preoccupied with details, rules, lists, order," +
+    print("\n\nAre you preoccupied with details, rules, lists, order," +
           "organization, or schedulesto the extent that the major point of the activity is lost? Y/N")
     Popen("say Are you preoccupied with details, rules, lists, order," +
           "organization, or schedules to the extent that the major point of the activity is lost?",

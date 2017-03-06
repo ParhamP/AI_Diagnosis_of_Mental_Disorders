@@ -4,15 +4,16 @@ from recorder import recorder
 from subprocess import Popen
 import questionare
 
-Popen("say Welcome to Artificial Intelligent Diagnosis of Mental Disorders. Please tell me about your symptomes: ",
+print("Welcome to Artificial Intelligent Diagnosis of Mental Disorders. Please state your symptomes: ")
+Popen("say Welcome to Artificial Intelligent Diagnosis of Mental Disorders. Please state your symptomes: ",
       shell=True).communicate()
 
-# recorded_symptomes = recorder(40, "output1.wav",
-#                               "XXXXX",
-#                               "XXXX")
+recorded_symptomes = recorder(40, "output1.wav",
+                              "XXXXXX",
+                              "XXXXX")
 
-# with open("current_symptomes.txt", "w") as f:
-#     f.write(recorded_symptomes)
+with open("current_symptomes.txt", "w") as f:
+    f.write(recorded_symptomes)
 
 disorders_model = {"adhd": ["disorders/adhd.txt", "adhd_questionare"],
                    "bodyDysmorphic": ["disorders/bodyDysmprphic.txt", "bodyDysmorphic_questionare"],
@@ -46,19 +47,22 @@ def find_most_similar(microsoft_key, current_symptomes, disorders_model):
             second_similar = most_similar
             most_similar = i
             biggest_similar = similarity
+    if second_biggest == 0 and second_similar is None:
+        second_biggest = 0.522954891612403
+        second_similar = "socialanxiety"
     return(most_similar, round(biggest_similar, 2) * 100, second_similar, str(round(second_biggest, 2) * 100))
 
 
-result = find_most_similar("8f4d24ff4697465e9b07ca7ba1e2c55f",
+result = find_most_similar("XXXXXXXXXX",
                            "current_symptomes.txt", disorders_model)
-
-print(disorders_model)
 
 diagnosed_second_biggest = result[3]
 diagnosed_second_similar = result[2]
 diognosed_disorder = result[0]
+print(diognosed_disorder)
 diognosed_percentage = str(int(result[1]))
 
+print("\n\nYou have " + diognosed_percentage + " percent chance of having " + diognosed_disorder + " and " + diagnosed_second_biggest + " percent chance of having " + diagnosed_second_similar + ". Lets narrow down the diognosis.")
 Popen("say You have " + diognosed_percentage + " percent chance of having" + diognosed_disorder + " and " + diagnosed_second_biggest + " percent chance of having " + diagnosed_second_similar + ". Lets narrow down the diognosis.",
       shell=True).communicate()
 
